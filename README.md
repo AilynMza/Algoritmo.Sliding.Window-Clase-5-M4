@@ -8,10 +8,6 @@ Este proyecto aplica la técnica conocida como **Sliding Window** para resolver 
 
 [GitHub - Proyecto Algoritmo Sliding Window Clase 5](https://github.com/AilynMza/Algoritmo.Sliding.Window-Clase-5-M4)
 
-## Enlace del GitHub Pages
-
-[GitHub Pages - Proyecto Algoritmo Sliding Window Clase 5](https://ailynmza.github.io/Algoritmo.Sliding.Window-Clase-5-M4/)
-
 ## Conclusión
 
 Este proyecto me permitió entender cómo aplicar la técnica Sliding Window en un problema sencillo pero útil. Reforcé mis conocimientos sobre el manejo de cadenas de texto y recorridos eficientes en JavaScript. Fue una buena forma de practicar cómo comparar elementos en movimiento dentro de un arreglo. 📖
